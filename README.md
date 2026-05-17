@@ -28,14 +28,6 @@ The notebook demonstrates data preprocessing, dimensionality reduction, and visu
 - Seaborn
 - Scikit-learn
 
----
-
-## Files
-
-```text
-PCA_Gene_Expression.ipynb
-README.md
-````
 
 ---
 
