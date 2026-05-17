@@ -54,7 +54,7 @@ jupyter notebook
 Open:
 
 ```text
-PCA_Gene_Expression.ipynb
+PCA.ipynb
 ```
 
 and run the cells.
@@ -68,15 +68,6 @@ The notebook generates:
 * PCA transformed data
 * Principal component plots
 * Explained variance plots
-
----
-
-## Applications
-
-* Bioinformatics
-* Gene expression analysis
-* Data visualization
-* Dimensionality reduction
 
 ```
 ```
