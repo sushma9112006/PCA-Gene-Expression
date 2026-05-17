@@ -101,8 +101,7 @@ The notebook generates:
 Principal Component Analysis helped simplify high-dimensional gene expression data into lower dimensions for easier visualization and interpretation. The project demonstrates how PCA can reveal meaningful biological patterns in complex datasets.
 
 ---
-Name: Jakkula Charita Sai Sushma
-Enrollment: 24114044
+- Name: Jakkula Charita Sai Sushma
+- Enrollment: 24114044
 
----
 ---
