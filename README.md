@@ -87,7 +87,20 @@ The notebook generates:
 - PCA plot
 - Scree plot
 - PC1 projection plot
-- Variance explained output
+
+---
+
+### PCA Plot
+
+![PCA Plot](<img width="490" height="346" alt="image" src="https://github.com/user-attachments/assets/eb4d473d-daff-436d-8315-09024b3954c9" />
+)
+
+---
+
+### Scree Plot
+
+![Scree Plot](<img width="502" height="276" alt="image" src="https://github.com/user-attachments/assets/ac61f8b3-6423-4a8b-a904-847c654b59e4" />
+)
 
 ---
 
