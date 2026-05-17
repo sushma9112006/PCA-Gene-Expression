@@ -1,33 +1,52 @@
-
 # PCA Gene Expression Analysis
 
 ## Project Overview
+This project applies Principal Component Analysis (PCA) to gene expression data to study patterns between ER+ and ER− breast cancer samples.
 
-This project performs Principal Component Analysis (PCA) on gene expression data using Python.  
-The notebook demonstrates data preprocessing, dimensionality reduction, and visualization of principal components.
+The analysis includes:
+- Loading and preprocessing high-dimensional gene expression data
+- Standardizing the dataset
+- Reducing dimensions using PCA
+- Visualizing sample distribution and clustering
+- Analyzing variance explained by principal components
+
+---
+
+## Objectives
+- Understand differences between ER+ and ER− samples
+- Reduce dimensionality of large-scale gene expression data
+- Visualize biological patterns using PCA
+- Identify how much variance is captured by principal components
 
 ---
 
 ## Features
-
-- Gene expression data analysis
-- Data preprocessing and scaling
-- Principal Component Analysis (PCA)
-- PCA visualization using scatter plots
-- Explained variance analysis
+- Gene expression data preprocessing
+- Dataset standardization using `StandardScaler`
+- PCA dimensionality reduction
+- Scatter plot visualization
+- Scree plot analysis
+- Projection onto principal component 1 (PC1)
+- Variance explained calculation
 
 ---
 
 ## Technologies Used
-
 - Python
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Scikit-learn
 
+---
+
+## Dataset Information
+The dataset contains:
+- 105 samples
+- 16,174 gene expression features
+
+The analysis focuses on gene expression patterns associated with ER+ and ER− classes.
 
 ---
 
@@ -39,7 +58,7 @@ The notebook demonstrates data preprocessing, dimensionality reduction, and visu
 git clone https://github.com/sushma9112006/PCA-Gene-Expression.git
 ```
 
-### Open project folder
+### Open the project folder
 
 ```bash
 cd PCA-Gene-Expression
@@ -51,23 +70,39 @@ cd PCA-Gene-Expression
 jupyter notebook
 ```
 
-Open:
+### Open the notebook
 
 ```text
 PCA.ipynb
 ```
 
-and run the cells.
+Run all cells sequentially.
 
 ---
 
-## Output
+## Visualizations Included
 
 The notebook generates:
+- Gene expression scatter plot
+- PCA plot
+- Scree plot
+- PC1 projection plot
+- Variance explained output
 
-* PCA transformed data
-* Principal component plots
-* Explained variance plots
+---
 
-```
-```
+## Results
+- PCA successfully reduced the dimensionality of the dataset while preserving important biological variation.
+- The PCA visualization showed visible separation patterns between ER+ and ER− samples.
+- The scree plot demonstrated how variance is distributed across principal components.
+---
+
+## Conclusion
+Principal Component Analysis helped simplify high-dimensional gene expression data into lower dimensions for easier visualization and interpretation. The project demonstrates how PCA can reveal meaningful biological patterns in complex datasets.
+
+---
+Name: Jakkula Charita Sai Sushma
+Enrollment: 24114044
+
+---
+---
