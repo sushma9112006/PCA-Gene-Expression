@@ -92,8 +92,6 @@ The notebook generates:
 
 ### PCA Plot
 
-### PCA Plot
-
 ![PCA Plot](https://github.com/user-attachments/assets/eb4d473d-daff-436d-8315-09024b3954c9)
 
 ---
